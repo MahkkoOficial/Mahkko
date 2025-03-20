@@ -1,13 +1,13 @@
-<!DOCTYPE html>
+<DOCTYPE html>
     <html lang="en">
         <head>
             <meta charset="UTF-8" />
             <meta name="viewport"
             content="width=device-width, initial-scale=1.0" />
-            <title>Programação</title>
+            <title>Document</title>
         </head>
         <body style="background: #a0ca60;">
-            <h1 style="color: #ff0000;font-size: 50px;">Como criar um Site</h1>
+            <h1 style="color:aqua">Como criar um Site<br> (o que aprendi)</h1>
             <p style="color:aqua">Html conceitos básicos</h2><br>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"
             alt="Html image"
@@ -21,6 +21,5 @@
             height="215"
             title="Css image"/>
             <p style="color:aqua">Css<br>Trocar as cores nos textos e colocar uma cor de fundo<p style="color: blue">Azul</p></h2>
-            <p style="color: pink;font-weight: 600; font-size: 70px;">Arthur</p>
         </body>
     </html>
